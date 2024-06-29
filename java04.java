@@ -1,5 +1,4 @@
 //Find given character characters occurrence count from given String
-import java.util.Scanner;
 
 public class java04 {
     public static void main (String args[]){
