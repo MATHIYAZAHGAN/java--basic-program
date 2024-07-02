@@ -1,7 +1,7 @@
 //Find vowels count from given string
 public class java09{
     public static void main(String[] args) {
-        String s="aeINDIAi";
+        String s="aeINDIAii";
         int count=0;
         for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
