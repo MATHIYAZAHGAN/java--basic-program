@@ -1,4 +1,4 @@
-// Find vowels count from given string
+//Find vowels count from given string
 public class java09{
     public static void main(String[] args) {
         String s="aeINDIAi";
