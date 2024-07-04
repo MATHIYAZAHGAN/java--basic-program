@@ -1,4 +1,5 @@
 public class java11 {
+    //Insert the new element into the array at the designated position
     public static void main(String[] args) {
         int arr[]={10,20,30,40,50};
         int brr[]=new int[arr.length+1];
