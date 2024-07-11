@@ -1,4 +1,5 @@
-// add
+// find if there is any special characters in a string and remove it
+
 
 public class java21 {
     public static void main(String[] args) {
