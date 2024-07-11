@@ -1,3 +1,5 @@
+// Print repetitive characters from given String
+
 public class java18{
     public static void main (String args[]){
         String s="mathiyazahgan";
