@@ -1,7 +1,6 @@
 //Reverse the given number
 import java.util.*;
 
-import javax.sound.sampled.SourceDataLine;
 
 public class java20 {
     public static void main(String[] args) {
