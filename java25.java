@@ -5,7 +5,7 @@ public class java25 {
         int n=10;
         for(int i=1;i<=n;i++){
             int square=i*i;
-gi            System.out.print(square+" ");
+            System.out.print(square+" ");
 
         }
     }
