@@ -1,4 +1,4 @@
-// For the given string find the sum of index
+// pu
 import java.util.*;
 class java32{
     public static void main(String[] args) {
