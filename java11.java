@@ -4,7 +4,7 @@ public class java11 {
         int arr[]={10,20,30,40,50};
         int brr[]=new int[arr.length+1];
         int n=0;
-        int value=451;
+        int value=51;
     
         for(int i=n;i<arr.length;i++){
             arr[n]=value;
