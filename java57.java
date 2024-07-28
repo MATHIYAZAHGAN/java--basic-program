@@ -3,7 +3,7 @@
 public class java57 {
     public static void main(String[] args) {
         int arr[]={10,20,30,40,50,60,70};
-        int r =3;
+        int r =2;
         // rev(arr);
         for (int j = 0; j<r;j++){
 
@@ -18,6 +18,7 @@ public class java57 {
     }
         for(int i= 0; i<arr.length; i++){
             System.out.print(arr[i]+"  ");
+
         }
     
 
